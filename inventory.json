@@ -1,6 +1,6 @@
 {
   "dealership": "Lougheed Hyundai",
-  "generated_at": "2026-09-26T06:13:05",
+  "generated_at": "2026-10-08T14:40:24",
   "vehicle_count": 288,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "KMHCT5AE8FU198772",
       "stock": "H26838A",
       "color": "Grey",
+      "trim": "GL",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/0a3a24a528b5.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2015/hyundai/accent-hatchback/coquitlam/bc/71094667/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2015/hyundai/accent-hatchback/coquitlam/bc/71094667/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,14 +20,17 @@
       "odometer_km": 139194,
       "year": 2015,
       "make": "Hyundai",
-      "model": "ACCENT Hatchback GL",
-      "condition": "used"
+      "model": "Accent",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2015 Hyundai Tucson GLS",
       "vin": "KM8JU3AG6FU042031",
       "stock": "H26982A",
       "color": "White",
+      "trim": "GLS",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/df637359e968.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2015/hyundai/tucson/coquitlam/bc/71043520/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2015/hyundai/tucson/coquitlam/bc/71043520/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +40,17 @@
       "odometer_km": 147573,
       "year": 2015,
       "make": "Hyundai",
-      "model": "Tucson GLS",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Forte Sedan SX",
       "vin": "3KPFN4A86HE119276",
       "stock": "H26835B",
       "color": "Black",
+      "trim": "SX",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/f863e675b1ee.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2017/kia/forte-sedan/coquitlam/bc/70931146/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2017/kia/forte-sedan/coquitlam/bc/70931146/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +60,17 @@
       "odometer_km": 84015,
       "year": 2017,
       "make": "Kia",
-      "model": "Forte Sedan SX",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Tucson LUXURY",
       "vin": "KM8J3CA47JU730931",
       "stock": "H26959A",
       "color": "Black",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/29be2c125dac.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2018/hyundai/tucson/coquitlam/bc/71117125/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2018/hyundai/tucson/coquitlam/bc/71117125/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +80,17 @@
       "odometer_km": 146900,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Tucson LUXURY",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Forte Sedan EX",
       "vin": "3KPFL4A87JE272759",
       "stock": "H26989A",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/52d9dca33d8a.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2018/kia/forte-sedan/coquitlam/bc/70982515/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2018/kia/forte-sedan/coquitlam/bc/70982515/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +100,17 @@
       "odometer_km": 56186,
       "year": 2018,
       "make": "Kia",
-      "model": "Forte Sedan EX",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Elantra PREFERRED",
       "vin": "KMHD84LF8KU830640",
       "stock": "H26858A",
       "color": "White",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/84a22b98d603.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2019/hyundai/elantra/coquitlam/bc/71089864/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2019/hyundai/elantra/coquitlam/bc/71089864/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,14 +120,17 @@
       "odometer_km": 111306,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Tucson LUXURY",
       "vin": "KM8J3CAL5KU946477",
       "stock": "H261039",
       "color": "Blue",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/90bf2e0889f9.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2019/hyundai/tucson/coquitlam/bc/71096794/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2019/hyundai/tucson/coquitlam/bc/71096794/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -121,14 +140,17 @@
       "odometer_km": 92000,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Tucson LUXURY",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Niro Plug-In Hybrid SX",
       "vin": "KNDCC3LD8K5289980",
       "stock": "H26818A",
       "color": "White",
+      "trim": "SX",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/6e4d8c8391f1.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2019/kia/niro-plug-in-hybrid/coquitlam/bc/71122582/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2019/kia/niro-plug-in-hybrid/coquitlam/bc/71122582/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,14 +160,17 @@
       "odometer_km": 87902,
       "year": 2019,
       "make": "Kia",
-      "model": "Niro Plug-In Hybrid SX",
-      "condition": "used"
+      "model": "Niro Plug-In Hybrid",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2019 Mercedes-Benz GLE 4DR SUV GLE400 4M",
       "vin": "4JGDA5GB3KB202580",
       "stock": "H26996A",
       "color": "White",
+      "trim": "SUV GLE400 4M",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/5773b2e793d5.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2019/mercedes-benz/gle/coquitlam/bc/71214123/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2019/mercedes-benz/gle/coquitlam/bc/71214123/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -155,14 +180,17 @@
       "odometer_km": 90810,
       "year": 2019,
       "make": "Mercedes-Benz",
-      "model": "GLE 4DR SUV GLE400 4M",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2021 Acura RDX A-SPEC",
       "vin": "5J8TC2H64ML803716",
       "stock": "H26842A",
       "color": "Black",
+      "trim": "A-SPEC",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/689f6adf2c81.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2021/acura/rdx/coquitlam/bc/71236173/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2021/acura/rdx/coquitlam/bc/71236173/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,14 +200,17 @@
       "odometer_km": 89784,
       "year": 2021,
       "make": "Acura",
-      "model": "RDX A-SPEC",
-      "condition": "used"
+      "model": "RDX",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Santa Fe PREFERRED",
       "vin": "5NMS3DAJ0MH307351",
       "stock": "H26041A",
       "color": "Red",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/1a98b428991f.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2021/hyundai/santa-fe/coquitlam/bc/71399684/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2021/hyundai/santa-fe/coquitlam/bc/71399684/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -189,14 +220,17 @@
       "odometer_km": 59689,
       "year": 2021,
       "make": "Hyundai",
-      "model": "Santa Fe PREFERRED",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler UNLIMITED WILLYS",
       "vin": "1C4HJXDG3MW535018",
       "stock": "H261025",
       "color": "Grey",
+      "trim": "UNLIMITED WILLYS",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/0b7dcf795cc1.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2021/jeep/wrangler/coquitlam/bc/71158529/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2021/jeep/wrangler/coquitlam/bc/71158529/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,14 +240,17 @@
       "odometer_km": 81942,
       "year": 2021,
       "make": "Jeep",
-      "model": "Wrangler UNLIMITED WILLYS",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Trax LT",
       "vin": "KL7CJLSM9NB521500",
       "stock": "RH26188",
       "color": "Silver",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/7139bd76b212.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2022/chevrolet/trax/coquitlam/bc/71340614/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2022/chevrolet/trax/coquitlam/bc/71340614/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,14 +260,17 @@
       "odometer_km": 23110,
       "year": 2022,
       "make": "Chevrolet",
-      "model": "Trax LT",
-      "condition": "used"
+      "model": "Trax",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Venue PREFERRED",
       "vin": "KMHRC8A39NU156054",
       "stock": "RH26716",
       "color": "Blue",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/24a73e4a8405.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2022/hyundai/venue/coquitlam/bc/70894424/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2022/hyundai/venue/coquitlam/bc/70894424/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -240,14 +280,17 @@
       "odometer_km": 61296,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Venue PREFERRED",
-      "condition": "used"
+      "model": "Venue",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Venue PREFERRED",
       "vin": "KMHRC8A31NU174368",
       "stock": "H251102",
       "color": "Silver",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/382f7ac8b923.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2022/hyundai/venue/coquitlam/bc/70894427/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2022/hyundai/venue/coquitlam/bc/70894427/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -257,14 +300,17 @@
       "odometer_km": 65954,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Venue PREFERRED",
-      "condition": "used"
+      "model": "Venue",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Venue PREFERRED",
       "vin": "KMHRC8A3XNU174398",
       "stock": "H26951A",
       "color": "Silver",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/2c587b177b69.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2022/hyundai/venue/coquitlam/bc/71094373/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2022/hyundai/venue/coquitlam/bc/71094373/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,14 +320,17 @@
       "odometer_km": 36080,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Venue PREFERRED",
-      "condition": "used"
+      "model": "Venue",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Palisade ULTIMATE CALLIGRA",
       "vin": "KM8R5DGE8PU608011",
       "stock": "H26975A",
       "color": "Blue",
+      "trim": "ULTIMATE CALLIGRA",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/b296ce7eb5d9.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2023/hyundai/palisade/coquitlam/bc/71071487/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2023/hyundai/palisade/coquitlam/bc/71071487/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -291,14 +340,17 @@
       "odometer_km": 63831,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Palisade ULTIMATE CALLIGRA",
-      "condition": "used"
+      "model": "Palisade",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Palisade ULTIMATE CALLIGRA",
       "vin": "KM8R5DGEXPU568255",
       "stock": "H26978A",
       "color": "Black",
+      "trim": "ULTIMATE CALLIGRA",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/3f02df2336e1.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2023/hyundai/palisade/coquitlam/bc/71175097/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2023/hyundai/palisade/coquitlam/bc/71175097/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -308,14 +360,17 @@
       "odometer_km": 46485,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Palisade ULTIMATE CALLIGRA",
-      "condition": "used"
+      "model": "Palisade",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Venue PREFERRED",
       "vin": "KMHRC8A33PU274698",
       "stock": "H26918A",
       "color": "White",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/414e7374b35c.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2023/hyundai/venue/coquitlam/bc/71042793/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2023/hyundai/venue/coquitlam/bc/71042793/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -325,14 +380,17 @@
       "odometer_km": 40783,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Venue PREFERRED",
-      "condition": "used"
+      "model": "Venue",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Carnival LX+",
       "vin": "KNDNB5H38P6262352",
       "stock": "H26756A",
       "color": "Black",
+      "trim": "LX+",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/19bf7f7615b4.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2023/kia/carnival/coquitlam/bc/71071490/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2023/kia/carnival/coquitlam/bc/71071490/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -342,14 +400,17 @@
       "odometer_km": 47995,
       "year": 2023,
       "make": "Kia",
-      "model": "Carnival LX+",
-      "condition": "used"
+      "model": "Carnival",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Atlas Cross Sport HIGHLINE",
       "vin": "1V2BE2CA9PC206564",
       "stock": "RH26816",
       "color": "Blue",
+      "trim": "HIGHLINE",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/8bb72e2d21b2.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2023/volkswagen/atlas-cross-sport/coquitlam/bc/71099636/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2023/volkswagen/atlas-cross-sport/coquitlam/bc/71099636/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -359,14 +420,17 @@
       "odometer_km": 69006,
       "year": 2023,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport HIGHLINE",
-      "condition": "used"
+      "model": "Atlas Cross Sport",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Hybrid TOURING",
       "vin": "2HKRS6H98RH217397",
       "stock": "HB26169",
       "color": "Black",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/5e3a80cbc270.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2024/honda/cr-v-hybrid/coquitlam/bc/71406397/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2024/honda/cr-v-hybrid/coquitlam/bc/71406397/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -376,14 +440,17 @@
       "odometer_km": 84053,
       "year": 2024,
       "make": "Honda",
-      "model": "CR-V Hybrid TOURING",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Tucson TREND",
       "vin": "KM8JCCDE9RU302021",
       "stock": "HB26163",
       "color": "Black",
+      "trim": "TREND",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/d7f9976d97c6.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2024/hyundai/tucson/coquitlam/bc/71356447/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2024/hyundai/tucson/coquitlam/bc/71356447/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -393,14 +460,17 @@
       "odometer_km": 32382,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Tucson TREND",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Forte Sedan EX+",
       "vin": "3KPF34AD0RE710871",
       "stock": "H26670A",
       "color": "Black",
+      "trim": "EX+",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/b6e2c170824b.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2024/kia/forte-sedan/coquitlam/bc/70966413/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2024/kia/forte-sedan/coquitlam/bc/70966413/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -410,14 +480,17 @@
       "odometer_km": 19248,
       "year": 2024,
       "make": "Kia",
-      "model": "Forte Sedan EX+",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Civic Sedan SPORT TOURING",
       "vin": "2HGFE4F88SH018522",
       "stock": "H26917A",
       "color": "Blue",
+      "trim": "SPORT TOURING",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/d023acc68ac1.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2025/honda/civic-sedan/coquitlam/bc/70931170/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2025/honda/civic-sedan/coquitlam/bc/70931170/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -427,14 +500,17 @@
       "odometer_km": 21500,
       "year": 2025,
       "make": "Honda",
-      "model": "Civic Sedan SPORT TOURING",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2025 Honda HR-V Turbo Sport SPORT",
       "vin": "3CZRZ2H51SM107867",
       "stock": "RH26696",
       "color": "White",
+      "trim": "Turbo Sport SPORT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/3110fe56c367.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2025/honda/hr-v-turbo-sport/coquitlam/bc/70966416/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2025/honda/hr-v-turbo-sport/coquitlam/bc/70966416/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,14 +520,17 @@
       "odometer_km": 14403,
       "year": 2025,
       "make": "Honda",
-      "model": "HR-V Turbo Sport SPORT",
-      "condition": "used"
+      "model": "HR-V",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG2SU037543",
       "stock": "RH26915",
       "color": "Blue",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/53fedd13f5ca.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2025/hyundai/elantra/coquitlam/bc/70620881/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2025/hyundai/elantra/coquitlam/bc/70620881/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -461,14 +540,17 @@
       "odometer_km": 16113,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG6SU855888",
       "stock": "RH26714",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/aba2c81b3fe9.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2025/hyundai/elantra/coquitlam/bc/71278787/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2025/hyundai/elantra/coquitlam/bc/71278787/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -478,14 +560,17 @@
       "odometer_km": 31457,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Elantra N DCT",
       "vin": "KMHLW4DKXSU033495",
       "stock": "H251069",
       "color": "Grey",
+      "trim": "N DCT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/8acd95d74d81.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2025/hyundai/elantra-n/coquitlam/bc/70158617/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2025/hyundai/elantra-n/coquitlam/bc/70158617/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -495,14 +580,17 @@
       "odometer_km": 30,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Elantra N DCT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra ESSENTIAL",
       "vin": "KMHLM4DG1TU182414",
       "stock": "H26987A",
       "color": "White",
+      "trim": "ESSENTIAL",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/e0f08c3322fe.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70894135/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70894135/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -512,14 +600,17 @@
       "odometer_km": 4319,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra ESSENTIAL",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED",
       "vin": "KM8HE3A61TU044882",
       "stock": "RH26342",
       "color": "Red",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/decbfa92d1be.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona-electric/coquitlam/bc/71305657/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona-electric/coquitlam/bc/71305657/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -529,14 +620,17 @@
       "odometer_km": 704,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric PREFERRED",
-      "condition": "used"
+      "model": "Kona Electric",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ESSENTIAL",
       "vin": "KMHRB8A34TU431409",
       "stock": "H26310A",
       "color": "White",
+      "trim": "ESSENTIAL",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/ec1ed09c038b.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70473983/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70473983/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -546,14 +640,17 @@
       "odometer_km": 4963,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue ESSENTIAL",
-      "condition": "used"
+      "model": "Venue",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ESSENTIAL",
       "vin": "KMHRB8A3XTU431835",
       "stock": "H26344A",
       "color": "Grey",
+      "trim": "ESSENTIAL",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/2325ea8ebbb0.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70648448/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70648448/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -563,14 +660,17 @@
       "odometer_km": 5693,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue ESSENTIAL",
-      "condition": "used"
+      "model": "Venue",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid Hybrid Luxury",
       "vin": "KMHLN4DJXTU196353",
       "stock": "H26386",
       "color": "Grey",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/e09ca3bff867.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-hybrid/coquitlam/bc/70158691/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-hybrid/coquitlam/bc/70158691/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -580,14 +680,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Hybrid Luxury",
-      "condition": "new"
+      "model": "Elantra Hybrid Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid Luxury Sedan",
       "vin": "KMHLN4DJ9TU205270",
       "stock": "H26642",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/96e8a660439c.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-hybrid/coquitlam/bc/70158742/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-hybrid/coquitlam/bc/70158742/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -597,14 +700,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Luxury Sedan",
-      "condition": "new"
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid Luxury Sedan",
       "vin": "KMHLN4DJ8TU207429",
       "stock": "H26748",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/a4f595eca78b.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-hybrid/coquitlam/bc/70188319/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-hybrid/coquitlam/bc/70188319/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -614,14 +720,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Luxury Sedan",
-      "condition": "new"
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid Luxury Sedan w/Two-Tone Interior",
       "vin": "KMHLN4DJ8TU208824",
       "stock": "H26713",
       "color": "Grey",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/40f9c06521fe.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-hybrid/coquitlam/bc/70439771/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-hybrid/coquitlam/bc/70439771/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -631,8 +740,10 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid Luxury Sedan w/Two-Tone Interior",
-      "condition": "new"
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid ",
@@ -648,13 +759,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N DCT",
       "vin": "KMHLW4DK1TU037632",
       "stock": "H26250",
       "color": "White",
+      "trim": "N DCT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/b6fb95e44e5e.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/70158658/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/70158658/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -664,14 +778,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N DCT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N ",
       "vin": "KMHLW4DK5TU041540",
       "stock": "H26840",
       "color": "Blue",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/bcbf42a4b3d0.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/71043614/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/71043614/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -680,14 +797,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N ",
       "vin": "KMHLW4DK3TU044968",
       "stock": "H261007",
       "color": "Black",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/de6c12dea219.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/71043622/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/71043622/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -696,14 +816,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N ",
       "vin": "KMHLR4DF5TU258337",
       "stock": "H26985",
       "color": "White",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f8c673e992ce.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/71043624/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/71043624/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -712,14 +835,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N ",
       "vin": "KMHLW4DK8TU044786",
       "stock": "H261008",
       "color": "White",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/478a85be978e.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/71043629/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/71043629/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -728,14 +854,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N ",
       "vin": "KMHLW4DK9TU044912",
       "stock": "H261009",
       "color": "Blue",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/8935dbe1d2b2.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/71043635/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/71043635/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -744,14 +873,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N ",
       "vin": "KMHLR4DF5TU260024",
       "stock": "H26986",
       "color": "Black",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/fc08b20e7dfb.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/71043637/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra-n/coquitlam/bc/71043637/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -760,14 +892,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxury IVT",
       "vin": "KMHLN4DG9TU187924",
       "stock": "H26550",
       "color": "Grey",
+      "trim": "Luxury IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/678db4528745.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158621/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158621/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -777,14 +912,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT",
       "vin": "KMHLM4DG5TU188717",
       "stock": "H26555",
       "color": "Black",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/d401c2f05faa.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158630/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158630/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -794,14 +932,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxury IVT",
       "vin": "KMHLN4DG3TU178247",
       "stock": "H26482",
       "color": "Blue",
+      "trim": "Luxury IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/a0bb1a43662d.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158641/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158641/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -811,14 +952,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG4TU197540",
       "stock": "H26591",
       "color": "Grey",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/d88567a684c2.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158643/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158643/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -828,14 +972,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG5TU203426",
       "stock": "H26755",
       "color": "Grey",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/223a9ebbfaa8.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158644/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158644/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -845,14 +992,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG2TU187475",
       "stock": "H26557",
       "color": "Grey",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/11761a971350.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158659/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158659/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -862,14 +1012,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essential IVT",
       "vin": "KMHLM4DG5TU211428",
       "stock": "H26636",
       "color": "Grey",
+      "trim": "Essential IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/61e114250a93.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158661/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158661/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -879,14 +1032,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essential IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DGXTU197591",
       "stock": "H26592",
       "color": "Grey",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/b5e70fdee8d9.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158663/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158663/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -896,14 +1052,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essential",
       "vin": "KMHLM4DG4TU179667",
       "stock": "H26479",
       "color": "Grey",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/8a25592196d5.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158668/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158668/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -913,14 +1072,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essential",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essential IVT",
       "vin": "KMHLM4DG3TU211413",
       "stock": "H26635",
       "color": "Grey",
+      "trim": "Essential IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/4c920e3f747f.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158672/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158672/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -930,14 +1092,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essential IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred",
       "vin": "KMHLM4DG6TU142555",
       "stock": "H26299",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/b9c6bb377711.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158674/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158674/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -947,14 +1112,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxury IVT",
       "vin": "KMHLN4DG4TU177155",
       "stock": "H26483",
       "color": "White",
+      "trim": "Luxury IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/c46e114958e0.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158685/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158685/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -964,14 +1132,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG4TU183704",
       "stock": "H26570",
       "color": "Blue",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/0fd7fd9961bc.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158689/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158689/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -981,14 +1152,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxury IVT",
       "vin": "KMHLN4DG1TU186234",
       "stock": "H26551",
       "color": "White",
+      "trim": "Luxury IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/afcf2b24742d.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158697/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158697/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -998,14 +1172,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG1TU187452",
       "stock": "H26556",
       "color": "Grey",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/77c28fd9e09a.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158700/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158700/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1015,14 +1192,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred  with Tech Pkg",
       "vin": "KMHLM4DG2TU137403",
       "stock": "H26347",
       "color": "Red",
+      "trim": "Preferred with Tech Pkg",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/6338e602e887.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158703/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158703/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1032,14 +1212,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred  with Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essential",
       "vin": "KMHLM4DG0TU139702",
       "stock": "H26331",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/49c9aa684f0c.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158714/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158714/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1049,14 +1232,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essential",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG7TU178903",
       "stock": "H26528",
       "color": "Grey",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/03e6a1a6a78e.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158727/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158727/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1066,14 +1252,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essential IVT",
       "vin": "KMHLM4DG3TU123090",
       "stock": "H26239",
       "color": "Grey",
+      "trim": "Essential IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/35a6301e88ec.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158728/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158728/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1083,14 +1272,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essential IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT",
       "vin": "KMHLM4DG7TU183292",
       "stock": "H26518",
       "color": "Grey",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/06c24560950a.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158736/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158736/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1100,14 +1292,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essential",
       "vin": "KMHLM4DGXTU182475",
       "stock": "H26481",
       "color": "White",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/fe88b3382097.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158738/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158738/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1117,14 +1312,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essential",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxury IVT",
       "vin": "KMHLN4DG7TU186223",
       "stock": "H26552",
       "color": "White",
+      "trim": "Luxury IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/d4738d57bafa.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158740/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158740/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1134,14 +1332,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxury IVT",
       "vin": "KMHLN4DG4TU177284",
       "stock": "H26484",
       "color": "Grey",
+      "trim": "Luxury IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/3de6f38bb2b3.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158751/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158751/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1151,14 +1352,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essential IVT",
       "vin": "KMHLM4DG3TU176632",
       "stock": "H26478",
       "color": "Grey",
+      "trim": "Essential IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/7da31ab53108.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158755/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70158755/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1168,14 +1372,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essential IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG9TU246019",
       "stock": "H26829",
       "color": "White",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f89594baa233.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70521755/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70521755/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1185,14 +1392,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG8TU244567",
       "stock": "H26831",
       "color": "Black",
+      "trim": "Preferred IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/309e3e9c212c.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70521760/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70521760/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1202,14 +1412,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferred IVT w/Tech Pkg",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxury IVT",
       "vin": "KMHLN4DG8TU241200",
       "stock": "H26782",
       "color": "Black",
+      "trim": "Luxury IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/2d239269f8c8.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70648898/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/elantra/coquitlam/bc/70648898/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1219,8 +1432,10 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury IVT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra ",
@@ -1236,7 +1451,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra ",
@@ -1252,7 +1469,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra ",
@@ -1268,7 +1487,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra ",
@@ -1284,7 +1505,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra ",
@@ -1300,13 +1523,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 5 PREFERRED",
       "vin": "KM8KRDDC6TU396468",
       "stock": "H26413",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/a949ac524c0f.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/ioniq-5/coquitlam/bc/70158719/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/ioniq-5/coquitlam/bc/70158719/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1316,14 +1542,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 5 PREFERRED",
-      "condition": "new"
+      "model": "IONIQ 5",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 Preferred AWD w-Luxury Pkg",
       "vin": "KM8MWFS37TA019133",
       "stock": "H26758",
       "color": "Blue",
+      "trim": "Preferred w-Luxury Pkg",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/7cb358f7e7b8.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/ioniq-9/coquitlam/bc/70158633/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/ioniq-9/coquitlam/bc/70158633/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1333,14 +1562,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 9 Preferred AWD w-Luxury Pkg",
-      "condition": "new"
+      "model": "IONIQ 9",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 Preferred AWD w-Luxury Pkg",
       "vin": "KM8MWFS38TA021117",
       "stock": "H26700",
       "color": "Black",
+      "trim": "Preferred w-Luxury Pkg",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/58f7017d32f8.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/ioniq-9/coquitlam/bc/70158648/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/ioniq-9/coquitlam/bc/70158648/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1350,14 +1582,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 9 Preferred AWD w-Luxury Pkg",
-      "condition": "new"
+      "model": "IONIQ 9",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 Preferred + AWD w/Ultimate Calligraphy Pkg",
       "vin": "KM8MYFS56TA020933",
       "stock": "H26699",
       "color": "Black",
+      "trim": "Preferred +",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/76dbe2657449.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/ioniq-9/coquitlam/bc/70158704/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/ioniq-9/coquitlam/bc/70158704/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1367,14 +1602,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 9 Preferred + AWD w/Ultimate Calligraphy Pkg",
-      "condition": "new"
+      "model": "IONIQ 9",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 Preferred AWD w-Luxury Pkg",
       "vin": "KM8MWFS39TA020610",
       "stock": "H26759",
       "color": "Grey",
+      "trim": "Preferred w-Luxury Pkg",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/68d8c17a867b.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/ioniq-9/coquitlam/bc/70188279/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/ioniq-9/coquitlam/bc/70188279/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1384,14 +1622,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 9 Preferred AWD w-Luxury Pkg",
-      "condition": "new"
+      "model": "IONIQ 9",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric Preferred FWD w/Trend Package",
       "vin": "KM8HD3A6XTU042017",
       "stock": "H26722",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/87a0e6f1d579.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona-electric/coquitlam/bc/70439759/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona-electric/coquitlam/bc/70439759/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1401,14 +1642,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred FWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric Preferred FWD w/Trend Package",
       "vin": "KM8HD3A68TU042629",
       "stock": "H26788",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/88af1c06cb21.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona-electric/coquitlam/bc/70648859/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona-electric/coquitlam/bc/70648859/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1418,14 +1662,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred FWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric Preferred FWD w/Trend Package",
       "vin": "KM8HD3A69TU041358",
       "stock": "H26694",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/862ec4c7b3a4.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona-electric/coquitlam/bc/70648873/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona-electric/coquitlam/bc/70648873/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1435,14 +1682,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred FWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric Preferred FWD w/Ultimate Package",
       "vin": "KM8HE3A66TU042500",
       "stock": "H26793",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/cdc394ff558d.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona-electric/coquitlam/bc/70648887/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona-electric/coquitlam/bc/70648887/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1452,8 +1702,10 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric Preferred FWD w/Ultimate Package",
-      "condition": "new"
+      "model": "Kona Electric",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1469,7 +1721,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1485,7 +1739,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1501,7 +1757,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1517,7 +1775,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1533,7 +1793,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1549,7 +1811,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1565,7 +1829,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1581,7 +1847,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1597,7 +1865,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1613,7 +1883,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1629,7 +1901,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1645,7 +1919,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1661,7 +1937,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1677,7 +1955,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1693,7 +1973,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1709,7 +1991,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1725,7 +2009,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1741,7 +2027,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1757,7 +2045,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1773,7 +2063,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1789,7 +2081,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1805,7 +2099,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1821,7 +2117,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1837,7 +2135,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1853,7 +2153,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -1869,13 +2171,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 1.6T N Line AWD w-Two-Tone Roof",
       "vin": "KM8HACA33TU448834",
       "stock": "H26529",
       "color": "Grey",
+      "trim": "1.6T N Line w-Two-Tone Roof",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/93d27eec9562.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158632/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158632/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1885,14 +2190,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 1.6T N Line AWD w-Two-Tone Roof",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w-Trend Package",
       "vin": "KM8HCCAB2TU450480",
       "stock": "H26521",
       "color": "Grey",
+      "trim": "Preferred w-Trend Package",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/3e782fb32a08.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158639/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158639/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1902,14 +2210,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w-Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w-Trend Package",
       "vin": "KM8HCCAB5TU450358",
       "stock": "H26519",
       "color": "White",
+      "trim": "Preferred w-Trend Package",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/edb04faff0b0.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158653/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158653/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1919,14 +2230,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w-Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Essential AWD",
       "vin": "KM8HACAB2TU440778",
       "stock": "H26443",
       "color": "Grey",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/b8bb26f49223.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158687/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158687/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1936,14 +2250,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Essential AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB4TU457527",
       "stock": "H26598",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/4eb9e55dae26.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158694/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158694/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1953,14 +2270,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB5TU449419",
       "stock": "H26520",
       "color": "Blue",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/ed5dbea40672.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158706/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158706/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1970,14 +2290,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB9TU454316",
       "stock": "H26581",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f18f186e4039.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158722/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158722/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1987,14 +2310,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD",
       "vin": "KM8HBCAB6TU447231",
       "stock": "H26501",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/41261b96648e.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158725/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158725/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2004,14 +2330,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB0TU462921",
       "stock": "H26619",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/4ab9eca45f3e.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158729/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158729/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2021,14 +2350,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Essential AWD",
       "vin": "KM8HACABXTU447218",
       "stock": "H26500",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/5e1e88a35daa.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158737/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158737/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2038,14 +2370,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Essential AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB9TU456597",
       "stock": "H26580",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/a1bf63d9fc06.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158744/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158744/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2055,14 +2390,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w-Trend Package",
       "vin": "KM8HCCAB5TU456824",
       "stock": "H26582",
       "color": "Grey",
+      "trim": "Preferred w-Trend Package",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f7f3bd8ea8ae.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158745/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158745/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2072,14 +2410,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w-Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD",
       "vin": "KM8HBCAB7TU454785",
       "stock": "H26578",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/3d51b737a721.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158756/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70158756/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2089,14 +2430,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB0TU459971",
       "stock": "H26607",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/5d1985333538.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70188300/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70188300/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2106,14 +2450,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB4TU481133",
       "stock": "H26753",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/3c8f02ddf9d2.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70439748/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70439748/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2123,14 +2470,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB6TU489718",
       "stock": "H26824",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/a7b4c0b169f1.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70439769/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70439769/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2140,14 +2490,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD",
       "vin": "KM8HBCAB2TU479030",
       "stock": "H26751",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/32f28a630b7d.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70439780/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70439780/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2157,14 +2510,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
       "vin": "KM8HCCAB0TU496244",
       "stock": "H26866",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/b414572efe04.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70591103/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70591103/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2174,14 +2530,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD w/Trend Package",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD",
       "vin": "KM8HBCABXTU485724",
       "stock": "H26796",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/c5f7febd2b47.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70648868/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70648868/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2191,14 +2550,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD",
       "vin": "KM8HBCAB4TU486027",
       "stock": "H26795",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/6a35138a178a.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70648874/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/kona/coquitlam/bc/70648874/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2208,8 +2570,10 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred AWD",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona ",
@@ -2225,13 +2589,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade XRT Pro ICE 7P",
       "vin": "KM8RJES22TU090311",
       "stock": "H26377",
       "color": "Brown",
+      "trim": "XRT Pro ICE 7P",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/10dc7c337b20.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70158660/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70158660/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2241,14 +2608,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade XRT Pro ICE 7P",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade XRT Pro 7P",
       "vin": "KM8RJES24TU079861",
       "stock": "H26353",
       "color": "Black",
+      "trim": "XRT Pro 7P",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f87e48a44be5.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70158692/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70158692/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2258,14 +2628,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade XRT Pro 7P",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade XRT Pro AWD",
       "vin": "KM8RJES25TU076841",
       "stock": "H26354",
       "color": "White",
+      "trim": "XRT Pro",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/d81a63b49d80.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70158734/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70158734/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2275,14 +2648,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade XRT Pro AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES20TU130795",
       "stock": "H26825",
       "color": "Grey",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f4da40e92cbb.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70421630/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70421630/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2292,14 +2668,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES24TU134140",
       "stock": "H26875",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/0d29477fc11c.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70521757/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70521757/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2309,14 +2688,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES26TU134463",
       "stock": "H26877",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/014d09128765.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70578510/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70578510/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2326,14 +2708,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES23TU134887",
       "stock": "H26873",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/c77a27fed1ef.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70591097/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70591097/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2343,14 +2728,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES27TU134049",
       "stock": "H26878",
       "color": "Grey",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/dd40a8d83d26.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70591100/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70591100/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2360,14 +2748,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES22TU134413",
       "stock": "H26869",
       "color": "Grey",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/9b50c3da4d81.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70648865/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70648865/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2377,14 +2768,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES24TU132792",
       "stock": "H26874",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/5e6c934e6ae2.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70648869/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70648869/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2394,14 +2788,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy AWD",
       "vin": "KM8RMES22TU134475",
       "stock": "H26871",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/10e48fdb91d4.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70648891/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/palisade/coquitlam/bc/70648891/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2411,8 +2808,10 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ",
@@ -2428,7 +2827,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ",
@@ -2444,7 +2845,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ",
@@ -2460,13 +2863,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD",
       "vin": "KM8P2DG14TU190036",
       "stock": "H26656",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/71b82b7ccf5d.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70158646/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70158646/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2476,14 +2882,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG17TU194024",
       "stock": "H26702",
       "color": "Black",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/eedea26dc604.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70158649/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70158649/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2493,14 +2902,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD",
       "vin": "KM8P2DG11TU190933",
       "stock": "H26684",
       "color": "Blue",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/b8b53f69b30c.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70188276/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70188276/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2510,14 +2922,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG16TU192197",
       "stock": "H26703",
       "color": "Black",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/0d9490a283a3.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70188281/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70188281/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2527,14 +2942,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD w-Trend Pkg",
       "vin": "KM8P3DG1XTU195450",
       "stock": "H26768",
       "color": "Green",
+      "trim": "Preferred w-Trend Pkg",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/b4a724ac5d5c.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70244389/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70244389/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2544,14 +2962,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred AWD w-Trend Pkg",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD w-Trend Pkg",
       "vin": "KM8P3DG12TU195295",
       "stock": "H26709",
       "color": "White",
+      "trim": "Preferred w-Trend Pkg",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/473968b496b2.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70244395/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70244395/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2561,14 +2982,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred AWD w-Trend Pkg",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG16TU192636",
       "stock": "H26761",
       "color": "Blue",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/e086b054c35f.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70244397/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70244397/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2578,14 +3002,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG1XTU192445",
       "stock": "H26764",
       "color": "Blue",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/027c06abc2c3.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70244398/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70244398/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2595,14 +3022,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD",
       "vin": "KM8P2DG10TU195685",
       "stock": "H26767",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/68096a1004db.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70244405/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70244405/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2612,14 +3042,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG19TU197992",
       "stock": "H26730",
       "color": "Blue",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/e37f0a08cd42.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70439753/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70439753/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2629,14 +3062,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD",
       "vin": "KM8P2DG10TU195752",
       "stock": "H26706",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/8399f7491a8d.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70439758/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70439758/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2646,14 +3082,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD",
       "vin": "KM8P2DG12TU201602",
       "stock": "H26826",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f015d0ec5feb.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70439767/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70439767/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2663,14 +3102,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG18TU194081",
       "stock": "H26763",
       "color": "Black",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/3d9ee42bd07e.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70439777/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70439777/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2680,14 +3122,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG12TU195226",
       "stock": "H26760",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/d95e1dfa6d71.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70439784/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70439784/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2697,14 +3142,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG11TU190678",
       "stock": "H26683",
       "color": "Grey",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/9825c00c8400.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70439793/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70439793/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2714,14 +3162,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG18TU201126",
       "stock": "H26806",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/32cbebfe780d.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70451904/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70451904/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2731,14 +3182,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG11TU201193",
       "stock": "H26799",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/3ed771efb418.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70451905/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70451905/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2748,14 +3202,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG15TU201214",
       "stock": "H26802",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/825f8467876f.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70451906/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70451906/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2765,14 +3222,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD w/Trend Pkg",
       "vin": "KM8P3DG18TU199870",
       "stock": "H26841",
       "color": "Blue",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/c00d5c4eec7e.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70451908/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70451908/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2782,14 +3242,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred AWD w/Trend Pkg",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG15TU204761",
       "stock": "H26881",
       "color": "White",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/1ad47498c6bb.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70591096/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70591096/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2799,14 +3262,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD",
       "vin": "KM8P2DG15TU203912",
       "stock": "H26927",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/73f1db206bc9.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70591106/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70591106/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2816,14 +3282,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG18TU204818",
       "stock": "H26880",
       "color": "Grey",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/94b9d7e61c96.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70591109/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70591109/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2833,14 +3302,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG11TU200982",
       "stock": "H26798",
       "color": "Grey",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/34dccb67dac5.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70648860/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70648860/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2850,14 +3322,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG13TU200367",
       "stock": "H26800",
       "color": "Black",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/dc3638c961d8.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70648862/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70648862/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2867,14 +3342,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG14TU200832",
       "stock": "H26801",
       "color": "Black",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/823abfdc806d.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70648890/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70648890/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2884,14 +3362,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG10TU201038",
       "stock": "H26803",
       "color": "Silver",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/6e34059d427b.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70648895/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70648895/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2901,14 +3382,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG1XTU200947",
       "stock": "H26805",
       "color": "Silver",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/96c353da84cd.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70648896/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/70648896/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2918,8 +3402,10 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -2935,7 +3421,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -2951,7 +3439,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -2967,7 +3457,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -2983,7 +3475,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -2999,7 +3493,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -3015,7 +3511,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -3031,7 +3529,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -3047,13 +3547,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD w-Trend Pkg",
       "vin": "KM8P3DG12TU206022",
       "stock": "H26895",
       "color": "White",
+      "trim": "Preferred w-Trend Pkg",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/8ff46d04aa4e.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/71043599/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/coquitlam/bc/71043599/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3062,8 +3565,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferred AWD w-Trend Pkg",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -3079,7 +3584,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -3095,13 +3602,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Hybrid Preferred-Trend FWD",
       "vin": "KMHL34JJ7TA173544",
       "stock": "H26808",
       "color": "Black",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/710927abd48e.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata-hybrid/coquitlam/bc/70439774/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata-hybrid/coquitlam/bc/70439774/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3111,14 +3621,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Hybrid Preferred-Trend FWD",
-      "condition": "new"
+      "model": "Sonata Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Hybrid Preferred-Trend FWD",
       "vin": "KMHL34JJ6TA174118",
       "stock": "H26809",
       "color": "White",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/8504ee4867e4.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata-hybrid/coquitlam/bc/70439799/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata-hybrid/coquitlam/bc/70439799/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3128,14 +3641,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Hybrid Preferred-Trend FWD",
-      "condition": "new"
+      "model": "Sonata Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Hybrid Preferred-Trend FWD",
       "vin": "KMHL34JJ0TA188872",
       "stock": "H261061",
       "color": "Blue",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/d87bdb5cfb30.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata-hybrid/coquitlam/bc/71140701/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata-hybrid/coquitlam/bc/71140701/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3144,14 +3660,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Hybrid Preferred-Trend FWD",
-      "condition": "new"
+      "model": "Sonata Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Preferred-Trend AWD",
       "vin": "KMHL44JA5TA565631",
       "stock": "H26447",
       "color": "Black",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/4312382d4f32.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata/coquitlam/bc/70158651/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata/coquitlam/bc/70158651/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3161,14 +3680,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Preferred-Trend AWD",
-      "condition": "new"
+      "model": "Sonata",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Preferred-Trend AWD",
       "vin": "KMHL44JA4TA575308",
       "stock": "H26583",
       "color": "Black",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/bbab0a290e23.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata/coquitlam/bc/70158686/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata/coquitlam/bc/70158686/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3178,14 +3700,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Preferred-Trend AWD",
-      "condition": "new"
+      "model": "Sonata",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Preferred-Trend AWD",
       "vin": "KMHL44JAXTA552308",
       "stock": "H26297",
       "color": "Grey",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/31d54b079302.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata/coquitlam/bc/70158733/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata/coquitlam/bc/70158733/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3195,14 +3720,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Preferred-Trend AWD",
-      "condition": "new"
+      "model": "Sonata",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Preferred-Trend AWD",
       "vin": "KMHL44JAXTA565396",
       "stock": "H26446",
       "color": "White",
+      "trim": "Preferred-Trend",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/9ba4c4cdf7c7.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata/coquitlam/bc/70158748/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/sonata/coquitlam/bc/70158748/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3212,14 +3740,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Preferred-Trend AWD",
-      "condition": "new"
+      "model": "Sonata",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD10TU481897",
       "stock": "H26680",
       "color": "White",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/87cd0c938182.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70158666/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70158666/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3229,14 +3760,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD16TU440917",
       "stock": "H26370",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/e55be74d26f1.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70158707/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70158707/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3246,14 +3780,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid 1.6T Ultimate HEV AWD",
       "vin": "KM8JCDD16TU408078",
       "stock": "H26145",
       "color": "Grey",
+      "trim": "1.6T Ultimate HEV",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/fd787b66f2b3.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70158715/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70158715/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3263,14 +3800,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid 1.6T Ultimate HEV AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD19TU458635",
       "stock": "H26537",
       "color": "Black",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/925c8fcf64c9.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70158752/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70158752/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3280,14 +3820,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
       "vin": "KM8JCDD15TU485671",
       "stock": "H26754",
       "color": "White",
+      "trim": "N-Line",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/698b4fc5e756.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70188290/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70188290/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3297,14 +3840,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Line AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD15TU481331",
       "stock": "H26678",
       "color": "White",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/115583a78451.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70188306/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70188306/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3314,14 +3860,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
       "vin": "KM8JCDD12TU501292",
       "stock": "H26854",
       "color": "Grey",
+      "trim": "N-Line",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/9e9abf9e19af.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70439751/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70439751/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3331,14 +3880,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Line AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD14TU499979",
       "stock": "H26909",
       "color": "Black",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/3d2e7ae402e1.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70439761/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70439761/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3348,14 +3900,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD16TU500002",
       "stock": "H26911",
       "color": "Black",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/4e05ee8a77a9.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70439772/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70439772/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3365,14 +3920,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
       "vin": "KM8JCDD13TU485278",
       "stock": "H26774",
       "color": "White",
+      "trim": "N-Line",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/564f354d1307.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70439781/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70439781/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3382,14 +3940,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Line AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD11TU495761",
       "stock": "H26843",
       "color": "Black",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/e74fe4b3360e.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70439789/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70439789/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3399,14 +3960,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
       "vin": "KM8JCDD15TU504364",
       "stock": "H26903",
       "color": "Grey",
+      "trim": "N-Line",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f42ec72d5c85.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70578508/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70578508/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3416,14 +3980,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Line AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
       "vin": "KM8JCDD15TU504395",
       "stock": "H26902",
       "color": "Grey",
+      "trim": "N-Line",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/7712aaa33e8b.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70591099/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70591099/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3433,14 +4000,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Line AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
       "vin": "KM8JCDD16TU505037",
       "stock": "H26901",
       "color": "Black",
+      "trim": "N-Line",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/53867ccc6585.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70591101/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70591101/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3450,14 +4020,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Line AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD18TU504939",
       "stock": "H26914",
       "color": "White",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f0f69e6dfa75.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70648858/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70648858/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3467,14 +4040,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Night Edition AWD",
       "vin": "KM8JBDD15TU497810",
       "stock": "H26817",
       "color": "Black",
+      "trim": "Night Edition",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/3e3533ef519e.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70648872/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70648872/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3484,14 +4060,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Night Edition AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD18TU490010",
       "stock": "H26845",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/5f5c98e4884c.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70648899/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson-hybrid/coquitlam/bc/70648899/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3501,8 +4080,10 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimate AWD",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3518,7 +4099,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3534,7 +4117,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3550,7 +4135,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3566,7 +4153,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3582,7 +4171,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3598,7 +4189,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3614,7 +4207,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3630,7 +4225,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3646,7 +4243,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3662,7 +4261,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3678,7 +4279,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3694,7 +4297,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3710,7 +4315,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3726,7 +4333,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -3742,7 +4351,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Plug-In Hybrid ",
@@ -3758,13 +4369,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson 2.5L Preferred AWD",
       "vin": "3KMJBCDE1TE031644",
       "stock": "H26163",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/0bd77b643eff.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson/coquitlam/bc/70158708/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/tucson/coquitlam/bc/70158708/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3774,8 +4388,10 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson 2.5L Preferred AWD",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3791,7 +4407,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3807,7 +4425,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3823,7 +4443,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3839,7 +4461,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3855,7 +4479,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3871,7 +4497,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3887,7 +4515,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3903,7 +4533,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3919,7 +4551,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3935,7 +4569,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3951,7 +4587,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3967,7 +4605,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3983,7 +4623,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -3999,7 +4641,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -4015,7 +4659,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -4031,7 +4677,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -4047,13 +4695,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Essential",
       "vin": "KMHRB8A3XTU442799",
       "stock": "H26312",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/888f14f4bf47.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70158626/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70158626/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4063,14 +4714,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Essential",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Essential",
       "vin": "KMHRB8A36TU431413",
       "stock": "H26206",
       "color": "White",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/ffb680823f6c.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70158656/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70158656/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4080,14 +4734,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Essential",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Essential",
       "vin": "KMHRB8A37TU440346",
       "stock": "H26309",
       "color": "Grey",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/aa534e4176fd.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70158690/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70158690/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4097,14 +4754,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Essential",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Essential",
       "vin": "KMHRB8A34TU440319",
       "stock": "H26308",
       "color": "Grey",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/ab56aac8cc4c.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70158726/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70158726/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4114,14 +4774,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Essential",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Essential IVT",
       "vin": "KMHRB8A33TU482545",
       "stock": "H26945",
       "color": "Black",
+      "trim": "Essential IVT",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/5de2b9ff993e.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70648900/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/hyundai/venue/coquitlam/bc/70648900/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4131,8 +4794,10 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Essential IVT",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -4148,7 +4813,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -4164,7 +4831,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -4180,7 +4849,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -4196,7 +4867,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -4212,7 +4885,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -4228,7 +4903,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -4244,7 +4921,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -4260,7 +4939,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -4276,7 +4957,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -4292,7 +4975,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -4308,7 +4993,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -4324,13 +5011,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GS",
       "vin": "3MVDMBCL2TM127002",
       "stock": "RH26910",
       "color": "Black",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/129631868716.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2026/mazda/cx-30/coquitlam/bc/70894013/?sale_class=used",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2026/mazda/cx-30/coquitlam/bc/70894013/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4340,8 +5030,10 @@
       "odometer_km": 10579,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GS",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai IONIQ 5 ",
@@ -4357,7 +5049,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai IONIQ 5 ",
@@ -4373,7 +5067,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai IONIQ 5 ",
@@ -4389,7 +5085,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -4405,7 +5103,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -4421,7 +5121,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -4437,7 +5139,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -4453,7 +5157,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -4469,7 +5175,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -4485,7 +5193,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -4501,7 +5211,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -4517,7 +5229,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -4533,7 +5247,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -4549,7 +5265,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -4565,7 +5283,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -4581,7 +5301,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -4597,7 +5319,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ",
@@ -4613,7 +5337,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ",
@@ -4629,7 +5355,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ",
@@ -4645,7 +5373,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ",
@@ -4661,13 +5391,16 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8RMESA8VU129453",
       "stock": "H27022",
       "color": "Black",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/9a98d1f842ad.html",
       "source_url": "https://www.lougheedhyundai.com/vehicles/2027/hyundai/palisade-hybrid/coquitlam/bc/71083128/?sale_class=new",
       "dealer_url": "https://www.lougheedhyundai.com/vehicles/2027/hyundai/palisade-hybrid/coquitlam/bc/71083128/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4676,8 +5409,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Palisade Hybrid Ultimate Calligraphy AWD",
-      "condition": "new"
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ",
@@ -4693,7 +5428,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ",
@@ -4709,7 +5446,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ",
@@ -4725,7 +5464,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ",
@@ -4741,7 +5482,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade ",
@@ -4757,7 +5500,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe ",
@@ -4773,7 +5518,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "new"
+      "condition": "new",
+      "city": "Coquitlam",
+      "province": "BC"
     }
   ]
 }
