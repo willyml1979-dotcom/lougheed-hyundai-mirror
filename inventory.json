@@ -1,7 +1,7 @@
 {
   "dealership": "Lougheed Hyundai",
-  "generated_at": "2026-10-26T05:18:20",
-  "vehicle_count": 248,
+  "generated_at": "2026-11-17T00:18:45",
+  "vehicle_count": 253,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -13,7 +13,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 8995.0,
+      "price": 8494.0,
       "price_currency": "CAD"
     },
     {
@@ -24,7 +24,40 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 8895.0,
+      "price": 9694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Subaru Forester I LIMITED",
+      "vin": "JF2SJCXC2GH527462",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/a0c4b9f8c0d0.html",
+      "year": 2016,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 14694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Honda Civic Sedan LX",
+      "vin": "2HGFC2F52HH012482",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/22be336c37bf.html",
+      "year": 2017,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 16694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Hyundai Tucson LUXURY",
+      "vin": "KM8J3CA49HU560047",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/4f15e3533091.html",
+      "year": 2017,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 15694.0,
       "price_currency": "CAD"
     },
     {
@@ -35,18 +68,7 @@
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 13895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Hyundai Santa Fe Sport SE",
-      "vin": "5XYZUDLA4JG516316",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/bf503b7939aa.html",
-      "year": 2018,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 15695.0,
+      "price": 12694.0,
       "price_currency": "CAD"
     },
     {
@@ -57,18 +79,18 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 14895.0,
+      "price": 13694.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Kia Forte Sedan EX",
-      "vin": "3KPFL4A87JE272759",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/52d9dca33d8a.html",
+      "name": "2018 Hyundai Tucson SE",
+      "vin": "KM8J3CA40JU722749",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/63d78caf1822.html",
       "year": 2018,
-      "make": "Kia",
-      "model": "Forte",
+      "make": "Hyundai",
+      "model": "Tucson",
       "condition": "used",
-      "price": 12895.0,
+      "price": 13694.0,
       "price_currency": "CAD"
     },
     {
@@ -79,18 +101,29 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 15895.0,
+      "price": 13694.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Hyundai Tucson LUXURY",
-      "vin": "KM8J3CAL5KU946477",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/90bf2e0889f9.html",
+      "name": "2019 Hyundai Santa Fe ULTIMATE",
+      "vin": "5NMS5CAA8KH093940",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/748b0354061a.html",
       "year": 2019,
       "make": "Hyundai",
-      "model": "Tucson",
+      "model": "Santa Fe",
       "condition": "used",
-      "price": 18985.0,
+      "price": 19384.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Kia Niro Hybrid SX TOURING",
+      "vin": "KNDCE3LC7K5242019",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/9bf1f1b661b9.html",
+      "year": 2019,
+      "make": "Kia",
+      "model": "Niro Hybrid",
+      "condition": "used",
+      "price": 17694.0,
       "price_currency": "CAD"
     },
     {
@@ -101,18 +134,7 @@
       "make": "Kia",
       "model": "Niro Plug-In Hybrid",
       "condition": "used",
-      "price": 18985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Mercedes-Benz GLE 4DR SUV GLE400 4M",
-      "vin": "4JGDA5GB3KB202580",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/5773b2e793d5.html",
-      "year": 2019,
-      "make": "Mercedes-Benz",
-      "model": "GLE",
-      "condition": "used",
-      "price": 28585.0,
+      "price": 18794.0,
       "price_currency": "CAD"
     },
     {
@@ -123,18 +145,7 @@
       "make": "Acura",
       "model": "RDX",
       "condition": "used",
-      "price": 36895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Elantra ULTIMATE",
-      "vin": "KMHLN4AG7MU074429",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/e2d9e3c472fc.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 19985.0,
+      "price": 37694.0,
       "price_currency": "CAD"
     },
     {
@@ -145,7 +156,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 33895.0,
+      "price": 34694.0,
       "price_currency": "CAD"
     },
     {
@@ -167,29 +178,18 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 23985.0,
+      "price": 23794.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Hyundai Elantra ESSENTIAL",
-      "vin": "KMHLM4AG0NU331371",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/8c130e191dbf.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Elantra",
+      "name": "2023 Honda Odyssey EX-L",
+      "vin": "5FNRL6H66PB500251",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/eb486e059242.html",
+      "year": 2023,
+      "make": "Honda",
+      "model": "Odyssey",
       "condition": "used",
-      "price": 17895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai Venue PREFERRED",
-      "vin": "KMHRC8A31NU174368",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/382f7ac8b923.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "used",
-      "price": 17895.0,
+      "price": 40394.0,
       "price_currency": "CAD"
     },
     {
@@ -200,73 +200,95 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 15895.0,
+      "price": 15694.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Kona PREFERRED",
-      "vin": "KM8K2CAB9PU033226",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/6d6b94094ebf.html",
+      "name": "2023 Hyundai Kona N-LINE Ultimate",
+      "vin": "KM8K5CA37PU006817",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/cd28124f30f6.html",
       "year": 2023,
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 23895.0,
+      "price": 26794.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Palisade ULTIMATE CALLIGRA",
-      "vin": "KM8R5DGE8PU608011",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/b296ce7eb5d9.html",
+      "name": "2023 Hyundai Santa Fe PREFERRED",
+      "vin": "5NMS3DAJ9PH566411",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/0ac4b5de4f76.html",
       "year": 2023,
       "make": "Hyundai",
-      "model": "Palisade",
+      "model": "Santa Fe",
       "condition": "used",
-      "price": 42895.0,
+      "price": 30794.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Palisade ULTIMATE CALLIGRA",
-      "vin": "KM8R5DGEXPU568255",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/3f02df2336e1.html",
+      "name": "2023 Hyundai Santa Fe ULTIMATE CALLIGRA",
+      "vin": "5NMS5DAL8PH564337",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/a71390356ec0.html",
       "year": 2023,
       "make": "Hyundai",
-      "model": "Palisade",
+      "model": "Santa Fe",
       "condition": "used",
-      "price": 42895.0,
+      "price": 33694.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Venue PREFERRED",
-      "vin": "KMHRC8A33PU274698",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/414e7374b35c.html",
+      "name": "2023 Hyundai Santa Fe PREFERRED",
+      "vin": "5NMS3DAJ3PH630569",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/d14f0f712859.html",
       "year": 2023,
       "make": "Hyundai",
-      "model": "Venue",
+      "model": "Santa Fe",
       "condition": "used",
-      "price": 20895.0,
+      "price": 27784.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Carnival LX+",
-      "vin": "KNDNB5H38P6262352",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/19bf7f7615b4.html",
+      "name": "2023 Hyundai Santa Fe PREFERRED",
+      "vin": "5NMS3DAJ4PH631438",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/0381e3fe6f26.html",
       "year": 2023,
-      "make": "Kia",
-      "model": "Carnival",
+      "make": "Hyundai",
+      "model": "Santa Fe",
       "condition": "used",
-      "price": 34895.0,
+      "price": 27694.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volkswagen Atlas Cross Sport HIGHLINE",
-      "vin": "1V2BE2CA9PC206564",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/8bb72e2d21b2.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
+      "name": "2024 BMW X3 XDRIVE30I",
+      "vin": "5UX53DP04R9W34008",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/2eb2b7f595de.html",
+      "year": 2024,
+      "make": "BMW",
+      "model": "X3",
       "condition": "used",
-      "price": 35895.0,
+      "price": 49694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Hyundai Santa Fe ULTIMATE CALLIGRA",
+      "vin": "5NMP5DGL6RH021388",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/d04e134a7efd.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used",
+      "price": 42724.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Hyundai Tucson Hybrid ULTIMATE",
+      "vin": "KM8JCCD16RU233785",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/6977aba88335.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "used",
+      "price": 35494.0,
       "price_currency": "CAD"
     },
     {
@@ -277,18 +299,40 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 29985.0,
+      "price": 30784.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Kia Forte Sedan EX+",
-      "vin": "3KPF34AD0RE710871",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/b6e2c170824b.html",
+      "name": "2024 Hyundai Tucson PREFERRED",
+      "vin": "KM8JBCDE0RU305411",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/d0a120bc17e2.html",
       "year": 2024,
-      "make": "Kia",
-      "model": "Forte",
+      "make": "Hyundai",
+      "model": "Tucson",
       "condition": "used",
-      "price": 22895.0,
+      "price": 27694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 RAM 1500 TRADESMAN",
+      "vin": "1C6SRFGT4RN157121",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/75220fc2d7b1.html",
+      "year": 2024,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 47694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Toyota Corolla Hybrid HYBRID SE",
+      "vin": "JTDBDMHE6RJ009166",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/11bd0ddeecf6.html",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Corolla Hybrid Hybrid",
+      "condition": "used",
+      "price": 32494.0,
       "price_currency": "CAD"
     },
     {
@@ -299,7 +343,7 @@
       "make": "Honda",
       "model": "HR-V",
       "condition": "used",
-      "price": 34195.0,
+      "price": 32994.0,
       "price_currency": "CAD"
     },
     {
@@ -310,7 +354,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 24895.0,
+      "price": 25694.0,
       "price_currency": "CAD"
     },
     {
@@ -321,18 +365,40 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 23795.0,
+      "price": 25694.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Elantra ESSENTIAL",
-      "vin": "KMHLM4DG1SU878771",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/be40ba18f4ec.html",
+      "name": "2025 Hyundai Santa Fe XRT",
+      "vin": "5NMP3DGL5SH104998",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/0d118336111f.html",
       "year": 2025,
       "make": "Hyundai",
-      "model": "Elantra",
+      "model": "Santa Fe",
       "condition": "used",
-      "price": 20985.0,
+      "price": 38794.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Santa Fe ULTIMATE CALLIGRA",
+      "vin": "5NMP5DGL6SH119231",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/e33a13b044e2.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used",
+      "price": 47694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Tucson Plug-In Hybrid ULTIMATE",
+      "vin": "KM8JDDD29SU319416",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/15f2443b4735.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Tucson Plug-In Hybrid",
+      "condition": "used",
+      "price": 44794.0,
       "price_currency": "CAD"
     },
     {
@@ -344,17 +410,6 @@
       "model": "Elantra",
       "condition": "new",
       "price": 40694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona PREFERRED",
-      "vin": "KM8HCCAB0TU359840",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/fccba91f9c63.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 30895.0,
       "price_currency": "CAD"
     },
     {
@@ -2466,7 +2521,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 31195.0,
+      "price": 31994.0,
       "price_currency": "CAD"
     },
     {
