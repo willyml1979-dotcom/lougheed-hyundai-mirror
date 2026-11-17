@@ -1,7 +1,7 @@
 {
   "dealership": "Lougheed Hyundai",
-  "generated_at": "2026-11-17T00:18:45",
-  "vehicle_count": 253,
+  "generated_at": "2026-11-17T01:08:53",
+  "vehicle_count": 219,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -424,18 +424,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra Hybrid Luxury Sedan",
-      "vin": "KMHLN4DJ9TU205270",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/96e8a660439c.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra Hybrid",
-      "condition": "new",
-      "price": 34548.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Elantra Hybrid ",
+      "name": "2026 Hyundai Elantra Hybrid Luxury",
       "vin": "KMHLN4DJ7TU195693",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/feb762ff33bc.html",
       "year": 2026,
@@ -449,6 +438,17 @@
       "name": "2026 Hyundai Elantra Hybrid ",
       "vin": "KMHLN4DJXTU225785",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/d030e748ea55.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "price": 35148.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Elantra Hybrid Luxury",
+      "vin": "KMHLN4DJ1TU225769",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f06c1d4ee4f9.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
@@ -509,17 +509,6 @@
       "model": "Elantra",
       "condition": "new",
       "price": 30048.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Elantra DCT",
-      "vin": "KMHLW4DK1TU037632",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/8f7c0c32a543.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 45348.0,
       "price_currency": "CAD"
     },
     {
@@ -586,17 +575,6 @@
       "model": "Elantra",
       "condition": "new",
       "price": 27848.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Elantra Luxury IVT",
-      "vin": "KMHLN4DG4TU177155",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/c46e114958e0.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 31798.0,
       "price_currency": "CAD"
     },
     {
@@ -777,17 +755,6 @@
     },
     {
       "name": "2026 Hyundai Elantra ",
-      "vin": "KMHLW4DK3TU044968",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/2c927872bfdf.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 45698.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Elantra ",
       "vin": "KMHLR4DF5TU258337",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/7169161ee3d9.html",
       "year": 2026,
@@ -806,17 +773,6 @@
       "model": "Elantra",
       "condition": "new",
       "price": 45348.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Elantra ",
-      "vin": "KMHLW4DK9TU044912",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/e464006c5065.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 44899.0,
       "price_currency": "CAD"
     },
     {
@@ -853,6 +809,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Hyundai Elantra Luxury",
+      "vin": "KMHLN4DG3TU306227",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/1c1affd283e6.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "new",
+      "price": 32648.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai IONIQ 5 PREFERRED",
       "vin": "KM8KRDDC6TU396468",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/a949ac524c0f.html",
@@ -883,28 +850,6 @@
       "model": "IONIQ 9",
       "condition": "new",
       "price": 79698.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai IONIQ 9 Preferred + AWD w/Ultimate Calligraphy Pkg",
-      "vin": "KM8MYFS56TA020933",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/76dbe2657449.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "IONIQ 9",
-      "condition": "new",
-      "price": 84698.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona Electric Preferred FWD w/Trend Package",
-      "vin": "KM8HD3A6XTU042017",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/87a0e6f1d579.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "new",
-      "price": 48948.0,
       "price_currency": "CAD"
     },
     {
@@ -964,17 +909,6 @@
     },
     {
       "name": "2026 Hyundai Kona Electric ",
-      "vin": "KM8HE3A67TU046751",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/036073b4a776.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "new",
-      "price": 52448.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona Electric ",
       "vin": "KM8HD3A60TU045282",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/5310386c9916.html",
       "year": 2026,
@@ -997,17 +931,6 @@
     },
     {
       "name": "2026 Hyundai Kona Electric ",
-      "vin": "KM8HD3A62TU045154",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/2224d5ba4421.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "new",
-      "price": 49198.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona Electric ",
       "vin": "KM8HD3A68TU045479",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/379ef0ebf6a4.html",
       "year": 2026,
@@ -1019,17 +942,6 @@
     },
     {
       "name": "2026 Hyundai Kona Electric ",
-      "vin": "KM8HE3A6XTU047263",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/314fd842f659.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "new",
-      "price": 52248.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona Electric ",
       "vin": "KM8HD3A63TU045292",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f77dfbec8633.html",
       "year": 2026,
@@ -1037,17 +949,6 @@
       "model": "Kona Electric",
       "condition": "new",
       "price": 49198.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona Electric ",
-      "vin": "KM8HD3A60TU045766",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/6fd2d1afd3bc.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "new",
-      "price": 48848.0,
       "price_currency": "CAD"
     },
     {
@@ -1092,6 +993,17 @@
       "model": "Kona Electric",
       "condition": "new",
       "price": 52248.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Kona Electric Preferred",
+      "vin": "KM8HE3A68TU047326",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/febaa760d749.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 51898.0,
       "price_currency": "CAD"
     },
     {
@@ -1172,17 +1084,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
-      "vin": "KM8HCCAB9TU456597",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/a1bf63d9fc06.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 36648.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD w-Trend Package",
       "vin": "KM8HCCAB5TU456824",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f7f3bd8ea8ae.html",
@@ -1257,17 +1158,6 @@
       "model": "Kona",
       "condition": "new",
       "price": 34348.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona 2.0L Preferred AWD",
-      "vin": "KM8HBCAB4TU486027",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/6a35138a178a.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 34598.0,
       "price_currency": "CAD"
     },
     {
@@ -1417,28 +1307,6 @@
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD",
       "vin": "KM8P2DG14TU190036",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/71b82b7ccf5d.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "new",
-      "price": 45348.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "vin": "KM8P5DG17TU194024",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/eedea26dc604.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "new",
-      "price": 57448.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD",
-      "vin": "KM8P2DG11TU190933",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/b8b53f69b30c.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
@@ -1646,17 +1514,6 @@
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "vin": "KM8P5DG14TU200832",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/823abfdc806d.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "new",
-      "price": 57448.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG10TU201038",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/6e34059d427b.html",
       "year": 2026,
@@ -1734,17 +1591,6 @@
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD w/Trend Pkg",
-      "vin": "KM8P3DG19TU203991",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/d6159fe88713.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "new",
-      "price": 48848.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD w/Trend Pkg",
       "vin": "KM8P3DG15TU199292",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/2be88909537c.html",
       "year": 2026,
@@ -1777,17 +1623,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD w/Trend Pkg",
-      "vin": "KM8P3DG19TU204459",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/3eb172aa8dbc.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "new",
-      "price": 48848.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Sonata Hybrid Preferred-Trend FWD",
       "vin": "KMHL34JJ7TA173544",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/710927abd48e.html",
@@ -1796,17 +1631,6 @@
       "model": "Sonata Hybrid",
       "condition": "new",
       "price": 39323.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Sonata Hybrid Preferred-Trend FWD",
-      "vin": "KMHL34JJ6TA174118",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/8504ee4867e4.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Sonata Hybrid",
-      "condition": "new",
-      "price": 39073.0,
       "price_currency": "CAD"
     },
     {
@@ -1865,17 +1689,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
-      "vin": "KM8JCDD16TU440917",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/e55be74d26f1.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 50998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Tucson Hybrid 1.6T Ultimate HEV AWD",
       "vin": "KM8JCDD16TU408078",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/fd787b66f2b3.html",
@@ -1920,17 +1733,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
-      "vin": "KM8JCDD13TU485278",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/564f354d1307.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 46748.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD11TU495761",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/e74fe4b3360e.html",
@@ -1964,28 +1766,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
-      "vin": "KM8JCDD16TU505037",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/53867ccc6585.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 46998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
-      "vin": "KM8JCDD18TU504939",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f0f69e6dfa75.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 50898.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD18TU490010",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/5f5c98e4884c.html",
@@ -2005,17 +1785,6 @@
       "model": "Tucson Hybrid",
       "condition": "new",
       "price": 51248.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid ",
-      "vin": "KM8JCDD16TU504843",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/c126d0af2eb9.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 47848.0,
       "price_currency": "CAD"
     },
     {
@@ -2042,83 +1811,6 @@
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
-      "vin": "KM8JCDD12TU504919",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/19d1c301a352.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 47848.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid ",
-      "vin": "KM8JCDD19TU504240",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/9ee7a4a7e8a1.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 47498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid ",
-      "vin": "KM8JCDD17TU503555",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/c77522a143e5.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 50898.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid ",
-      "vin": "KM8JCDD11TU504233",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/1bfa392fd27e.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 47498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid ",
-      "vin": "KM8JCDD18TU533471",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/bf86a035b815.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 51248.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid ",
-      "vin": "KM8JCDD15TU535291",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/7ae2f97db5c3.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 51248.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid ",
-      "vin": "KM8JCDD17TU535311",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/b2a0e7aa4cb8.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 51248.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid ",
       "vin": "KM8JCDD18TU534832",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/95d96f1b5ba9.html",
       "year": 2026,
@@ -2126,50 +1818,6 @@
       "model": "Tucson Hybrid",
       "condition": "new",
       "price": 51248.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid ",
-      "vin": "KM8JCDD17TU534790",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/efa1b9519e2b.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 51248.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid ",
-      "vin": "KM8JCDD16TU534828",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/73bd6599c48d.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 50449.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Plug-In Hybrid ",
-      "vin": "KM8JDDD24TU536356",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/62474e20cdfb.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Plug-In Hybrid",
-      "condition": "new",
-      "price": 55949.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Plug-In Hybrid ",
-      "vin": "KM8JDDD20TU546818",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/80d68a17a1b3.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Plug-In Hybrid",
-      "condition": "new",
-      "price": 56398.0,
       "price_currency": "CAD"
     },
     {
@@ -2203,28 +1851,6 @@
       "model": "Tucson",
       "condition": "new",
       "price": 38149.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson ",
-      "vin": "KM8JBCDE3TU490691",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/495e7d6ddbcb.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 37799.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson ",
-      "vin": "KM8JCCDE1TU491254",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/dfc665061e60.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 41499.0,
       "price_currency": "CAD"
     },
     {
@@ -2383,17 +2009,6 @@
     },
     {
       "name": "2026 Hyundai Venue ",
-      "vin": "KMHRC8A38TU486927",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/7db6469a1f62.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "new",
-      "price": 29249.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Venue ",
       "vin": "KMHRC8A37TU485400",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f987a1107585.html",
       "year": 2026,
@@ -2525,17 +2140,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai IONIQ 5 Ultimate AWD",
-      "vin": "KM8KRDDC0VU427782",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/9dc8da6873d2.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "IONIQ 5",
-      "condition": "new",
-      "price": 67048.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Hyundai IONIQ 9 Ultimate Calligraphy + AWD",
       "vin": "KM8MYFS57VA031135",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/977a1c9f861d.html",
@@ -2561,6 +2165,17 @@
       "name": "2027 Hyundai Kona Electric ",
       "vin": "KM8HE3A63VU049388",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/aca53fd047a9.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 52248.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric Preferred",
+      "vin": "KM8HE3A6XVU049470",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/494908da7c61.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona Electric",
@@ -2734,7 +2349,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Palisade Hybrid ",
+      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy Night",
       "vin": "KM8RMESA6VU128091",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/86929a49ba9f.html",
       "year": 2027,
@@ -2742,17 +2357,6 @@
       "model": "Palisade Hybrid",
       "condition": "new",
       "price": 71898.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Palisade Hybrid ",
-      "vin": "KM8RMESA9VU137707",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/dce007283fe9.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Palisade Hybrid",
-      "condition": "new",
-      "price": 70248.0,
       "price_currency": "CAD"
     },
     {
@@ -2767,7 +2371,29 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Palisade ",
+      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy",
+      "vin": "KM8RMESA2VU146393",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/e43334dc70a6.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 70248.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid Luxury",
+      "vin": "KM8RKESA4VU145350",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/48dc5d6ed9e3.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 65998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade XRT Pro",
       "vin": "KM8RJES29VU145114",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/92b793f8494e.html",
       "year": 2027,
