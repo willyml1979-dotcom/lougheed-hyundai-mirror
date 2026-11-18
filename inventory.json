@@ -1,7 +1,7 @@
 {
   "dealership": "Lougheed Hyundai",
-  "generated_at": "2026-11-17T01:08:53",
-  "vehicle_count": 219,
+  "generated_at": "2026-11-17T21:01:11",
+  "vehicle_count": 220,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -167,7 +167,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 20895.0,
+      "price": 21694.0,
       "price_currency": "CAD"
     },
     {
@@ -410,6 +410,17 @@
       "model": "Elantra",
       "condition": "new",
       "price": 40694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Seltos LX",
+      "vin": "KNDEPCAA6S7701789",
+      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/e5d739e72251.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 26694.0,
       "price_currency": "CAD"
     },
     {
