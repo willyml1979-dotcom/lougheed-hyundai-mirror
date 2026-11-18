@@ -1,7 +1,7 @@
 {
   "dealership": "Lougheed Hyundai",
-  "generated_at": "2026-11-18T07:08:48",
-  "vehicle_count": 217,
+  "generated_at": "2026-11-18T15:06:59",
+  "vehicle_count": 215,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -145,7 +145,7 @@
       "make": "Acura",
       "model": "RDX",
       "condition": "used",
-      "price": 37694.0,
+      "price": 36484.0,
       "price_currency": "CAD"
     },
     {
@@ -168,17 +168,6 @@
       "model": "Trax",
       "condition": "used",
       "price": 21694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Escape SE",
-      "vin": "1FMCU9G67NUA52429",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/b7a54874431b.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 23784.0,
       "price_currency": "CAD"
     },
     {
@@ -212,17 +201,6 @@
       "model": "Kona",
       "condition": "used",
       "price": 26794.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Santa Fe PREFERRED",
-      "vin": "5NMS3DAJ9PH566411",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/used/0ac4b5de4f76.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 30794.0,
       "price_currency": "CAD"
     },
     {
