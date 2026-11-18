@@ -1,6 +1,6 @@
 {
   "dealership": "Lougheed Hyundai",
-  "generated_at": "2026-11-18T06:39:48",
+  "generated_at": "2026-11-18T07:08:48",
   "vehicle_count": 217,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -798,7 +798,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra ",
+      "name": "2026 Hyundai Elantra Preferred",
       "vin": "KMHLM4DG7TU297924",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/0ea617afa5c7.html",
       "year": 2026,
@@ -853,7 +853,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona Electric ",
+      "name": "2026 Hyundai Kona Electric Preferred",
       "vin": "KM8HE3A64TU044925",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/1cd31cb856d6.html",
       "year": 2026,
@@ -864,7 +864,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona Electric ",
+      "name": "2026 Hyundai Kona Electric Preferred",
       "vin": "KM8HD3A67TU046963",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/11cbdc18dde3.html",
       "year": 2026,
@@ -875,7 +875,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona Electric ",
+      "name": "2026 Hyundai Kona Electric Preferred",
       "vin": "KM8HE3A63TU042230",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/f3eccb41f8be.html",
       "year": 2026,
@@ -886,7 +886,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona Electric ",
+      "name": "2026 Hyundai Kona Electric Preferred",
       "vin": "KM8HD3A68TU044414",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/7fcefa63bc91.html",
       "year": 2026,
@@ -897,7 +897,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona Electric ",
+      "name": "2026 Hyundai Kona Electric Preferred",
       "vin": "KM8HD3A66TU046985",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/c70ead473b31.html",
       "year": 2026,
@@ -908,7 +908,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona Electric ",
+      "name": "2026 Hyundai Kona Electric Preferred",
       "vin": "KM8HD3A60TU045282",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/5310386c9916.html",
       "year": 2026,
@@ -919,7 +919,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona Electric ",
+      "name": "2026 Hyundai Kona Electric Preferred",
       "vin": "KM8HD3A68TU044607",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/ac76b287b515.html",
       "year": 2026,
@@ -2338,7 +2338,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Palisade Hybrid ",
+      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy",
       "vin": "KM8RMESA6VU143349",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/190fc05001dd.html",
       "year": 2027,
