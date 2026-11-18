@@ -1,7 +1,7 @@
 {
   "dealership": "Lougheed Hyundai",
-  "generated_at": "2026-11-17T21:01:11",
-  "vehicle_count": 220,
+  "generated_at": "2026-11-17T21:33:33",
+  "vehicle_count": 217,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -589,17 +589,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
-      "vin": "KMHLM4DG4TU183704",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/0fd7fd9961bc.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 30048.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Elantra Luxury IVT",
       "vin": "KMHLN4DG1TU186234",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/afcf2b24742d.html",
@@ -732,7 +721,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra ",
+      "name": "2026 Hyundai Elantra Preferred",
       "vin": "KMHLM4DG4TU256358",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/6839297b379e.html",
       "year": 2026,
@@ -743,7 +732,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra ",
+      "name": "2026 Hyundai Elantra Preferred",
       "vin": "KMHLM4DG1TU256365",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/374ec404053d.html",
       "year": 2026,
@@ -798,7 +787,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra ",
+      "name": "2026 Hyundai Elantra Essential",
       "vin": "KMHLM4DG8TU295261",
       "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/e36c4fa7e959.html",
       "year": 2026,
@@ -1158,17 +1147,6 @@
       "model": "Kona",
       "condition": "new",
       "price": 36898.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona 2.0L Preferred AWD",
-      "vin": "KM8HBCABXTU485724",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/c5f7febd2b47.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 34348.0,
       "price_currency": "CAD"
     },
     {
@@ -2192,17 +2170,6 @@
       "model": "Kona Electric",
       "condition": "new",
       "price": 52248.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Kona ",
-      "vin": "KM8HA3AB6VU503075",
-      "url": "https://willyml1979-dotcom.github.io/lougheed-hyundai-mirror/new/fb1a401b4982.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 30099.0,
       "price_currency": "CAD"
     },
     {
